@@ -24,12 +24,12 @@ My long-term goal is to grow as a DevOps engineer, where cloud infrastructure, a
 - Lua
 
 ### Other Languages & Scripting
--- HTML 
--- CSS
--- JavaScript
--- Arduino
--- SQL (Mysql, Mariadb)
--- R
+- HTML 
+- CSS
+- JavaScript
+- Arduino
+- SQL (Mysql, Mariadb)
+- R
 
 ### Tools & Platforms
 - Git (version control)
