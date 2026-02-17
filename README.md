@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kharl Denzell Bugarin
 
-I'm a Computer Science student majoring in Data Mining with a strong focus on DevOps engineering, automation, and low-level programming. I enjoy working close to systems — optimizing performance, building reliable backend logic, and automating workflows on Linux environments.
+I'm a Computer Science student majoring in Data Mining with a strong focus on DevOps engineering, automation, and low-level programming. I enjoy working close to systems — optimizing performance, and automating workflows on Linux environments.
 
 My long-term goal is to grow as a DevOps engineer, where cloud infrastructure, automation, and system reliability come together.
 
@@ -8,41 +8,40 @@ My long-term goal is to grow as a DevOps engineer, where cloud infrastructure, a
 
 ## 🚀 Focus Areas
 
-- DevOps & Automation  
-- Low-level Programming & System Development  
-- Linux-based Workflows & Scripting  
-- Backend Logic & System Design  
-- Performance & Reliability Engineering  
+- DevOps & Automation    
+- Linux-based Workflows & Scripting    
 - Cloud Infrastructure (as part of DevOps)
 
 ---
 
 ## 💻 Technical Stack
 
-### Languages & Scripting
+### Focus Languages & Scripting
+- Bash  
+- Python
 - C, C++  
 - Java  
-- Bash  
-- SQL  
-- Python  
-- R  
-- Lua  
-- HTML, CSS  
-- JavaScript (basic)  
-- Arduino (basic)
+- Lua
+
+### Other Languages & Scripting
+-- HTML 
+-- CSS
+-- JavaScript
+-- Arduino
+-- SQL (Mysql, Mariadb)
+-- R
 
 ### Tools & Platforms
-- Git (version control)  
+- Git (version control)
 - GitHub (repository hosting & collaboration)  
 - Linux environments (Debian-based systems)
-
+- Vim/Nvim, Nano, etc. (Code Editors)
+- Tmux (Termnial Workflow)
 ---
 
 ## 🎯 Goals
 
-- Build strong DevOps and automation expertise  
-- Master low-level and system programming  
-- Develop reliable backend systems  
+- Build strong DevOps and automation expertise 
 - Automate Linux workflows and infrastructure tasks  
 - Grow into cloud-powered DevOps engineering
 
