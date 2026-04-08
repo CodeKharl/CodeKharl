@@ -19,11 +19,11 @@ My long-term goal is to grow as a DevOps engineer, where cloud infrastructure, a
 ### Focus Languages & Scripting
 - Bash  
 - Python
-- C, C++  
-- Java  
-- Lua
-
+  
 ### Other Languages & Scripting
+- C, C++  
+- Java
+- - Lua
 - HTML 
 - CSS
 - JavaScript
