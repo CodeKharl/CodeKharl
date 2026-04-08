@@ -23,7 +23,7 @@ My long-term goal is to grow as a DevOps engineer, where cloud infrastructure, a
 ### Other Languages & Scripting
 - C, C++  
 - Java
-- - Lua
+- Lua
 - HTML 
 - CSS
 - JavaScript
