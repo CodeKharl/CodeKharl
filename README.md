@@ -25,15 +25,14 @@ My long-term goal is to grow as a DevOps engineer, where cloud infrastructure, a
 - C, C++  
 - Java
 - - HTML, CSS, JavaScript (Basic Frontend)
-- SQL (Mysql, Mariadb)
+- SQL (Postgresql, Mysql, Mariadb)
 
 ### Tools & Platforms
 - Git (version control)
-- GitHub (repository hosting & collaboration)  
+- GitHub (repository hosting & collaboration) 
 - Linux environments (Debian-based systems)
 - Vim/Nvim, Nano, VS Code, etc. (Code Editors)
-- Tmux (Termnial Workflow)
-- - Docker
+- Docker
 ---
 
 ## 🎯 Goals
