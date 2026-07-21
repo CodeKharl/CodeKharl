@@ -24,7 +24,7 @@ My long-term goal is to grow as a DevOps engineer, where cloud infrastructure, a
 ### Other Languages & Scripting
 - C, C++  
 - Java
-- - HTML, CSS, JavaScript (Basic Frontend)
+- HTML, CSS, JavaScript (Basic Frontend)
 - SQL (Postgresql, Mysql, Mariadb)
 
 ### Tools & Platforms
